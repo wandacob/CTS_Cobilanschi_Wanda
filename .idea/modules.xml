@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SeminareCTS.iml" filepath="$PROJECT_DIR$/SeminareCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar02/seminar02.iml" filepath="$PROJECT_DIR$/seminar02/seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar04/seminar04.iml" filepath="$PROJECT_DIR$/seminar04/seminar04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar05/seminar05.iml" filepath="$PROJECT_DIR$/seminar05/seminar05.iml" />
     </modules>
   </component>
 </project>
