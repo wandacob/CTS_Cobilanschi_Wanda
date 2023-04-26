@@ -21,5 +21,8 @@ public class Main {
         listaPersonal.add(factoryMedic.createPersonal("John"));
         listaPersonal.add(factoryBrancardier.createPersonal("Gigi"));
 
+        for(PersonalSpital personalSpital : listaPersonal){
+            personalSpital.afiseazaDescriere();
+        }
     }
 }

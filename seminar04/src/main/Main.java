@@ -14,6 +14,8 @@ public class Main {
 
         BazaDate bazaDate1 = BazaDate.getInstanta();
         BazaDate bazaDate2 = BazaDate.getInstanta();
+        System.out.println(bazaDate1);
+        System.out.println(bazaDate2);
         bazaDate1.setDimensiuneDate(200);
         bazaDate2.setDimensiuneDate(300);
         System.out.println(bazaDate1);
