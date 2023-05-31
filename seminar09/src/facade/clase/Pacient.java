@@ -1,4 +1,4 @@
-package spital.facade.clase;
+package facade.clase;
 
 public class Pacient {
     private String nume;
